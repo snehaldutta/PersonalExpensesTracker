@@ -1,10 +1,6 @@
-Here’s an example of a well-structured **README.md** file for your **Personal Expense Tracker** project that you can use for GitHub. It provides information on the project, installation steps, usage, and how contributors can engage with the project.
-
----
-
 # Personal Expense Tracker
 
-A **Personal Expense Tracker** web application built using **Streamlit** and  **SQLite3**. This app allows users to add expenses, view expense history, and track total expenses by category.
+A **Personal Expense Tracker** web application built using **Streamlit** and  **SQLite3**. This app allows users to add expenses, view expense history, and track total expenditures by category.
 
 ## Features
 
